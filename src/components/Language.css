@@ -1,0 +1,96 @@
+.language-page{
+    height: auto;
+    width: 100%;
+    background-color: rgb(232, 241, 244);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.language-nav{
+    margin-top: 10px;
+    padding: 10px;
+    border-bottom: 2px solid #007bff;
+}
+
+.language-name{
+    margin-left: 20px;
+    color: #007bff;
+}
+
+.language-add{
+    float: right;
+    text-decoration: none;
+    height: 40px;
+    width: 150px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+}
+
+.language-body{
+    margin: 10px;
+}
+
+.language-right{
+    float: right;
+    margin-right: 20px;
+}
+
+.language-body label{
+    margin: 30px 10px;
+}
+
+.actions {
+  display: flex;
+  gap: 4px;
+}
+
+.edit-btn{
+  border: 1px solid rgb(149, 149, 165);
+  padding: 6px 10px;
+  border-radius: 4px;
+  background-color: #f4f4f4;
+  cursor: pointer;
+  font-size: 16px;
+  color: #007bff;
+}
+
+.call-btn {
+  border: 1px solid rgb(149, 149, 165);
+  padding: 6px 10px;
+  border-radius: 4px;
+  background-color: #f4f4f4;
+  cursor: pointer;
+  font-size: 16px;
+  color: red
+}
+
+.edit-btn:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+.call-btn:hover {
+  background-color: #f50505;
+  color: white
+}
+.pagination{
+    float: right;
+}
+
+.pagination button {
+ 
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  background-color: white;
+  cursor: pointer;
+    
+}
+
+.pagination .active {
+  background-color: #007bff;
+  color: white;
+}
