@@ -1,0 +1,102 @@
+
+.country-page{
+    padding: 10px;
+    width: 100%;
+    background-color: rgb(232, 241, 244);
+    border-radius: 5px;
+    margin: 20px;
+}
+
+
+
+.country-nav{
+    margin-top: 10px;
+    padding: 10px;
+    border-bottom: 2px solid #007bff;
+}
+
+.country-name{
+    margin-left: 20px;
+    color: #007bff;
+}
+
+.country-add{
+    float: right;
+    text-decoration: none;
+    height: 40px;
+    width: 150px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+}
+
+
+
+.country-body{
+    margin: 10px;
+}
+
+.country-right{
+    float: right;
+    margin-right: 10px;
+}
+
+.country-body label{
+    margin: 30px 10px;
+}
+
+
+.edit-btn{
+  border: 1px solid rgb(149, 149, 165);
+  padding: 6px 10px;
+  border-radius: 4px;
+  background-color: #f4f4f4;
+  cursor: pointer;
+  font-size: 16px;
+  color: #007bff;
+}
+
+.dlt-btn{
+    border: 1px solid rgb(149, 149, 165);
+  padding: 6px 10px;
+  border-radius: 4px;
+  background-color: #f4f4f4;
+  cursor: pointer;
+  font-size: 16px;
+  color: red;
+}
+
+.dlt-btn:hover{
+    background-color: red;
+    color: white;
+}
+
+.delete-btn2{
+    border: none;
+    
+}
+
+.delete-btn{
+    border: none;
+    background-color: white;
+}
+
+.pagination{
+    float: right;
+}
+
+.pagination button {
+ 
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  background-color: white;
+  cursor: pointer;
+    
+}
+
+.pagination .active {
+  background-color: #007bff;
+  color: white;
+}
