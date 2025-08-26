@@ -1,0 +1,31 @@
+.pledge-page{
+    margin: 20px;
+   
+    width: 100%;
+    background-color: rgb(232, 241, 244);
+    border-radius: 5px;
+}
+
+
+.pledge-nav{
+    margin-top: 10px;
+    padding: 10px;
+    border-bottom: 2px solid #007bff;
+}
+
+.pledge-name{
+    margin-left: 20px;
+    color: #007bff;
+}
+
+.pledge-add{
+    float: right;
+    text-decoration: none;
+    height: 40px;
+    width: 150px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+}
