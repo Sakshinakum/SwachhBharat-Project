@@ -1,0 +1,40 @@
+.user-page{
+    margin: 20px;
+    padding: 10px;
+    width: 100%;
+    background-color: rgb(232, 241, 244);
+    border-radius: 5px;
+}
+
+
+.user-nav{
+    margin-top: 10px;
+    padding: 10px;
+    border-bottom: 2px solid #007bff;
+}
+
+.user-name{
+    margin-left: 20px;
+    color: #007bff;
+}
+
+.back-btn{
+    background-color: #337ab7;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.save-btn{
+    background-color: #00aaff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+    cursor: pointer;
+}
